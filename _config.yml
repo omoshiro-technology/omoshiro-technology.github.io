@@ -1,2 +1,9 @@
 # themes settings
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: jekyll-theme-minimal
+
+title: "株式会社おもしろテクノロジーのCorporate site"
+description: "2022年10月19日設立。株式会社おもしろテクノロジーのコーポレートサイト。現在サービス立ち上げ中"
+# logo: img/tacoin.png
+
+twitter:
+  username: norotororo
