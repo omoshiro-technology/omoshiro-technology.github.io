@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 
 title: "株式会社おもしろテクノロジーのCorporate site"
 description: "2022年10月19日設立。株式会社おもしろテクノロジーのコーポレートサイト。現在サービス立ち上げ中"
-# logo: img/tacoin.png
+logo: image/dummy_CEO.png
 
 twitter:
   username: norotororo
