@@ -17,7 +17,7 @@
 問い合わせはこちらのFormまでお願いいたします。
 
 ## Member
-![CEO](./image/dummy_CEO.jpg)
+<img src="./image/dummy_CEO.jpg" width="100px">
 ### 野呂歩希
 代表取締役社長  
 1997生まれ。岩手県出身。  
