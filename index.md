@@ -16,7 +16,7 @@
 問い合わせはこちらのFormまでお願いいたします。
 
 ## Member
-<img src="./image/dummy_CEO.jpg" width="100px"><br>
+<img src="./image/dummy_CEO.jpg" width="150px"><br>
 
 ### 野呂 歩希 Noro Ibuki
 代表取締役社長  
