@@ -13,7 +13,7 @@
 創作したモノだけでなく、その過程（モチベーション、哲学、生活）にも目を向けることで今後の社会及び世界を生き抜く力、及び価値創造の能力を醸成を目指します。
 
 ### 問い合わせ
-問い合わせはこちらのFormまでお願いいたします。
+問い合わせはこちらの[Form](https://docs.google.com/forms/d/e/1FAIpQLSdCU6vTuf2ZyHzK8npj02uzD3NDnUv7TpNUVpo8bnjM-_MwkA/viewform?usp=sf_link)までお願いいたします。
 
 ## Member
 <img src="./image/dummy_CEO.jpg" style="border-radius:50%;" width="30%"><br>
