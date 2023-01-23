@@ -15,6 +15,7 @@
 
 ### ソフトウェア開発支援
 お客様の現場にてソフトウェア開発の支援を行います。
+テクノロジーを正しくおもしろく現場に適応させていきます。
 
 ### 問い合わせ
 問い合わせはこちらの[Form](https://docs.google.com/forms/d/e/1FAIpQLSdCU6vTuf2ZyHzK8npj02uzD3NDnUv7TpNUVpo8bnjM-_MwkA/viewform?usp=sf_link)までお願いいたします。
